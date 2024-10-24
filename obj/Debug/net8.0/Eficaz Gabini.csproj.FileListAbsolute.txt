@@ -1,0 +1,31 @@
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\bin\Debug\net8.0\appsettings.json
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\bin\Debug\net8.0\Eficaz Gabini.staticwebassets.runtime.json
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\bin\Debug\net8.0\Eficaz Gabini.exe
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\bin\Debug\net8.0\Eficaz Gabini.deps.json
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\bin\Debug\net8.0\Eficaz Gabini.runtimeconfig.json
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\bin\Debug\net8.0\Eficaz Gabini.dll
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\bin\Debug\net8.0\Eficaz Gabini.pdb
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\Eficaz Gabini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\Eficaz Gabini.AssemblyInfoInputs.cache
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\Eficaz Gabini.AssemblyInfo.cs
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\Eficaz Gabini.csproj.CoreCompileInputs.cache
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\Eficaz Gabini.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\Eficaz Gabini.RazorAssemblyInfo.cache
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\Eficaz Gabini.RazorAssemblyInfo.cs
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\Eficaz Gabini.sourcelink.json
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\staticwebassets\msbuild.Eficaz Gabini.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\staticwebassets\msbuild.build.Eficaz Gabini.props
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Eficaz Gabini.props
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Eficaz Gabini.props
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\scopedcss\bundle\Eficaz Gabini.styles.css
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\scopedcss\projectbundle\Eficaz Gabini.bundle.scp.css
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\Eficaz Gabini.dll
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\refint\Eficaz Gabini.dll
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\Eficaz Gabini.pdb
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\Eficaz Gabini.genruntimeconfig.cache
+C:\Users\henrr\OneDrive\Área de Trabalho\Eficaz Gabini\obj\Debug\net8.0\ref\Eficaz Gabini.dll
